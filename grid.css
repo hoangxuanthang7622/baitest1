@@ -54,6 +54,6 @@
   html{
       font-family: "Lucida Sans",sans-serif;
   }
-  /* .container{
-    text-align: center;
-  } */
+  a.a-entry-point {
+    color:#2d3748;
+}
